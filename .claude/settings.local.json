@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "WebFetch(domain:mba.tuck.dartmouth.edu)",
+      "Bash(grep:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(./python.exe:*)",
+      "Bash(venv/Scripts/python.exe:*)",
+      "Bash(find:*)",
+      "Bash(./venv/Scripts/python.exe:*)"
+    ],
+    "deny": []
+  }
+}

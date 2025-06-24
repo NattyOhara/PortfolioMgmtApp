@@ -1,0 +1,5 @@
+ticker,shares,purchase_price,purchase_date
+AAPL,100,150.00,2023-01-15
+MSFT,50,300.00,2023-02-20
+GOOGL,25,2500.00,2023-03-10
+TSLA,30,800.00,2023-04-05

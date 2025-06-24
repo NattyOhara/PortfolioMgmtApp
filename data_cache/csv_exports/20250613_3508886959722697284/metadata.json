@@ -1,0 +1,36 @@
+{
+  "export_date": "2025-06-13T11:46:41.520039",
+  "tickers": [
+    "GIVN.SW",
+    "MSFT",
+    "GLDM",
+    "V",
+    "CAT",
+    "GEBN.SW",
+    "NKE",
+    "UL",
+    "SPGI",
+    "TSLA",
+    "JNJ",
+    "EPI",
+    "ZTS",
+    "ASML",
+    "ADBE",
+    "MSTR",
+    "NVO",
+    "MC.PA",
+    "IONQ",
+    "7974.T"
+  ],
+  "ticker_count": 20,
+  "data_types": [
+    "current_prices",
+    "exchange_rates",
+    "company_info",
+    "historical_prices",
+    "factor_data",
+    "etf_benchmarks",
+    "currency_mapping",
+    "data_quality"
+  ]
+}
